@@ -1,24 +1,24 @@
 #!/usr/bin/node
 
-import signUpUser from "./4-user-promise";
-import uploadPhoto from "./5-photo-reject";
+import signUpUser from './4-user-promise';
+import uploadPhoto from './5-photo-reject';
 
 export default async function handleProfileSignup(
   firstName,
   lastName,
-  fileName
+  fileName,
 ) {
   const allSettled = [];
 
   try {
     const user = await signUpUser(firstName, lastName);
     allSettled.push({
-      status: "fulfilled",
+      status: 'fulfilled',
       value: user,
     });
   } catch (error) {
     allSettled.push({
-      status: "rejected",
+      status: 'rejected',
       value: error.toString(),
     });
   }
@@ -26,12 +26,12 @@ export default async function handleProfileSignup(
   try {
     const photo = await uploadPhoto(fileName);
     allSettled.push({
-      status: "fulfilled",
+      status: 'fulfilled',
       value: photo,
     });
   } catch (error) {
     allSettled.push({
-      status: "rejected",
+      status: 'rejected',
       value: error.toString(),
     });
   }
