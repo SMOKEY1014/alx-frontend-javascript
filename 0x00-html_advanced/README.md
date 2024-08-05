@@ -1,6 +1,7 @@
 <div class="panel panel-default" id="project-description">
   <div class="panel-body">
-    <p><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T062809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b124fb9422756b20ee5aa414e8eacc789aabb3cfd0719a2f27a269ad76732f55" alt="" loading='lazy' style="" /></p>
+    <p>![Description of Image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T062809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b124fb9422756b20ee5aa414e8eacc789aabb3cfd0719a2f27a269ad76732f55)
+</p>
 
 <h1>Welcome!</h1>
 
@@ -53,12 +54,12 @@ No CSS, no styling - don&rsquo;t worry, the final page will be &ldquo;ugly&rdquo
 </ul>
 
 <h2>Sitemap of the project</h2>
-
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T062809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8e33082f5c834fca461b37749128f27a0f2eaf583c788ecc1296596ae9e18b39" alt="" loading='lazy' style="" />
-
+<p>![Sitemap](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T062809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8e33082f5c834fca461b37749128f27a0f2eaf583c788ecc1296596ae9e18b39)
+</p>
 <h2>Wireframe of <code>Techium</code> project</h2>
 
-<p><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T062809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b5e174bce577d2f2f32ce54c3ab048cf7d8b5eb5fac551a8a6b1121afa1f0d28" alt="" loading='lazy' style="" /></p>
+<p>![Wireframe](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T062809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b5e174bce577d2f2f32ce54c3ab048cf7d8b5eb5fac551a8a6b1121afa1f0d28)
+</p>
 
   </div>
 </div>
