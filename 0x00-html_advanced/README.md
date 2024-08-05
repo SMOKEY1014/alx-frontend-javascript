@@ -1,6 +1,6 @@
 <div class="panel panel-default" id="project-description">
   <div class="panel-body">
-    <p>![Description of Image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T062809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b124fb9422756b20ee5aa414e8eacc789aabb3cfd0719a2f27a269ad76732f55)
+    <p>![Welcome](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/5d9e347964a9cc0e3e24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T062809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b124fb9422756b20ee5aa414e8eacc789aabb3cfd0719a2f27a269ad76732f55)
 </p>
 
 <h1>Welcome!</h1>
