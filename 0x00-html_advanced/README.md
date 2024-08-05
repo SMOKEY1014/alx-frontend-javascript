@@ -54,7 +54,7 @@ No CSS, no styling - don&rsquo;t worry, the final page will be &ldquo;ugly&rdquo
 
 <h2>Sitemap of the project</h2>
 
-<p><img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T062809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8e33082f5c834fca461b37749128f27a0f2eaf583c788ecc1296596ae9e18b39" alt="" loading='lazy' style="" /></p>
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240805%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240805T062809Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8e33082f5c834fca461b37749128f27a0f2eaf583c788ecc1296596ae9e18b39" alt="" loading='lazy' style="" />
 
 <h2>Wireframe of <code>Techium</code> project</h2>
 
